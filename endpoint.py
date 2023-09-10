@@ -9,7 +9,7 @@ def get_info():
     track = request.args.get('backend')
     current_day = 'Sunday'
     utc_time = '2023-09-11T23:01:04.072Z'
-    github_file_url = "https://github.com/luckysitara/bug-free-hng_repo/blob/main/endppint.py"
+    github_file_url = "https://github.com/luckysitara/bug-free-hng_repo/blob/main/endpoint.py"
     github_repo_url = "https://github.com/luckysitara/bug-free-hng_repo.git"
     status_code = 200
 
